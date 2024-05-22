@@ -28,7 +28,7 @@ Node.js and npm.
 Then, perform the following steps to get set up for development:
 
 ```sh
-git clone --depth=1 https://github.com/:google/model-viewer.git
+git clone --depth=1 git@github.com:google/model-viewer.git
 cd model-viewer
 npm install
 ```
